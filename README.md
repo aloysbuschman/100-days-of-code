@@ -1,6 +1,8 @@
 # 100-days-of-code
 This repository will be used to log my daily coding activities as part of the #100daysofcode challenge. 
 
+### Day 3: 17 August 2022
+
 ### Day 2: 16 August 2022
 Another day of practice on learnjavascript.online. I started off doing some flashcard exercises to recap everything I have worked on the last couple of days. After that I focused on accessing object values dynamically with different .Object methodes and learned new debugging methodes by using Object shorthands.
 
