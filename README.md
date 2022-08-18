@@ -1,6 +1,8 @@
 # 100-days-of-code
 This repository will be used to log my daily coding activities as part of the #100daysofcode challenge. 
 
+### Day 4: 18 August 2022
+
 ### Day 3: 17 August 2022
 
 ### Day 2: 16 August 2022
